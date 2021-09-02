@@ -23,5 +23,5 @@ Through these dataclass, it is possible to modify bookmarks files.
 
 The command line to convert `bookmarks_in.html` to `bookmarks_out.html` is:
 ```
-python3 folders2tags.py < bookmarks_in.html > bookmarks_out.html`
+python3 folders2tags.py < bookmarks_in.html > bookmarks_out.html
 ```
