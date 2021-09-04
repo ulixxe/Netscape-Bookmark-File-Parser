@@ -25,3 +25,7 @@ The command line to convert `bookmarks_in.html` to `bookmarks_out.html` is:
 ```
 python3 folders2tags.py < bookmarks_in.html > bookmarks_out.html
 ```
+
+### Prerequisites
+- [Python 3](https://www.python.org/)
+- [PyParsing 2.4.7](https://github.com/pyparsing/pyparsing)
